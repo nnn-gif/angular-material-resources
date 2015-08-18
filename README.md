@@ -18,3 +18,5 @@ http://nobitagit.github.io/ng-material-floating-button/
 https://github.com/flatlogic/angular-material-dashboard
 
 
+https://gabiaxel.github.io/ng-polymer-elements/
+
