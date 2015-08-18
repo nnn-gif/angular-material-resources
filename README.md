@@ -20,3 +20,11 @@ https://github.com/flatlogic/angular-material-dashboard
 
 https://gabiaxel.github.io/ng-polymer-elements/
 
+Material Datatables
+
+http://iamisti.github.io/md-data-table/
+
+https://github.com/daniel-nagy/md-data-table#demo
+
+
+
