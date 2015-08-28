@@ -33,4 +33,5 @@ http://mobinni.github.io/material-date-picker/
 Angular range selector
 https://github.com/rzajac/angularjs-slider
 
-
+Fade toolbar
+http://codepen.io/jbltx/pen/KwQxBX
