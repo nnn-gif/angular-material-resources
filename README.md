@@ -35,3 +35,6 @@ https://github.com/rzajac/angularjs-slider
 
 Fade toolbar
 http://codepen.io/jbltx/pen/KwQxBX
+
+sticky section subheader
+http://plnkr.co/edit/lgNPlT3jy5vci6N3hy8L?p=preview
